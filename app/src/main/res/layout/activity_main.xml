@@ -54,7 +54,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/addPaymentText"
-            android:text="@string/add_payment"
+            android:text="@string/add_payment_link"
             app:layout_constraintTop_toBottomOf="@+id/paymentTextView"
             app:layout_constraintStart_toStartOf="parent"
             android:layout_marginTop="180dp"
@@ -69,6 +69,8 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/addPaymentText" />
+
+
     </androidx.constraintlayout.widget.ConstraintLayout>
 
 

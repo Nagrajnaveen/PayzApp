@@ -3,6 +3,8 @@
     <string name="total_amount_equals">Total Amount =</string>
     <string name="_1250">1250</string>
     <string name="payments">Payments</string>
-    <string name="add_payment"><a href="Add Payment">Add Payment</a></string>
+    <string name="add_payment_link"><a href="Add Payment">Add Payment</a></string>
     <string name="save">Save</string>
+    <string name="add_payment">Add Payment</string>
+    <string name="Rs">\u20B9</string>
 </resources>
